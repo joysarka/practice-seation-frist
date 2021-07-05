@@ -1,0 +1,88 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.practice-container{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 70px;
+}
+.practice-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 20px;
+}
+.practice-width img{
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.Peter-Parker{
+ color: orange;
+}
+.practice-width h1{
+    font-size: 35px;
+}
+
+.practice-width p{
+    margin-bottom: 30px;
+}
+.here-button{
+    color: white;
+    background-color: orange;
+    padding: 10px 30px;
+    text-decoration: none;
+     
+}
+.last-section{
+    margin-left: 2%;
+    
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.last-container{
+    display: flex;
+
+
+}
+.full-web{
+    width: 50%;
+    margin: 0 60px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0 20px;
+    border-left: 7px solid;
+    border-image:linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+.full-web h4{
+    color: orange;
+}
+.baby-web{
+   
+    width: 50%;
+    margin: 0 60px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0 20px;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+ 
+
+#lasty{
+    color: orange;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 50px;
+} 
+
+
+
+
+
+
+
